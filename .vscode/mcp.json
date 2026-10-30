@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"my-aci-mcp-server": {
+			"type": "stdio",
+			"command": "python",
+			"args": [
+				"Path to server.py/Cicsco_MCP_New/mcp_server_cisco_aci/scripts/server.py",
+				"stdio"
+			],
+			"cwd": "path to scripts folder/Cicsco_MCP_New/mcp_server_cisco_aci/scripts"
+		}
+	},
+	"inputs": []
+}
